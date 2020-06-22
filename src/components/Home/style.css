@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Corben&display=swap');
 
+
 #heading {
     font-family: 'Corben', cursive;
     color: #fafdff;
@@ -7,6 +8,16 @@
     letter-spacing: 4px;
     margin-top: 35%;
 }
+
+#HeroWrapper {
+    width: 350px;
+    height: 350px;
+}
+
+#heroImg {
+    height: 100%;
+    width: 100%;
+} 
 
 #inputLabel {
     color: rgb(251, 255, 255);
